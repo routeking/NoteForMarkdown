@@ -296,5 +296,10 @@ Markdown[^1]
 - [ ] List 3
    - [x] List 3.1
 
+## HTML支持
 
+### 支持内嵌CSS样式
 
+例如：
+
+<p style="color: #AD5D0F;font-size: 30px; font-family: '宋体';">内联样式</p>
